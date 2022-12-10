@@ -44,14 +44,14 @@ footer {
 
 header{
     position: fixed;
-    border-bottom: 10px solid rgb(255, 187, 0);
+    border-bottom: 5px solid rgb(255, 187, 0);
 }
 
 footer{
     position: absolute;
     margin-top: 0;
     bottom: 0;
-    border-bottom: 10px solid grey;
+    border-bottom: 5px solid grey;
     color: white;
 }
 
